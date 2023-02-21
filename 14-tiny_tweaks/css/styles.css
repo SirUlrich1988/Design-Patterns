@@ -63,7 +63,7 @@ p {
     }
 }
 
-@media (min-width: ) {
+@media (min-width: 992px) {
     .contenedor {
         width: 60%;
     }
